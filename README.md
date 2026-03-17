@@ -71,12 +71,4 @@
 - 🇬🇧 **English:** Professional Working Proficiency [cite: 113]
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diablo-seif&show_icons=true&theme=tokyonight" alt="Seif's GitHub Stats" />
-</p>
-
----
 ⭐ **Feel free to explore my repositories or reach out for collaborations in the Odoo ecosystem!**
