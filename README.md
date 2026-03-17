@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Bachelor’s degree in **Management Information Systems (MIS)**[cite: 84, 115].
-- 💻 **Expertise:** Specialized in **Odoo Development** with a deep understanding of business workflows[cite: 79, 85].
-- 🛠 **Hands-on Experience:** Practical knowledge in **Sales, Purchase, CRM, HR, Inventory, and Maintenance** modules[cite: 85].
-- 🔄 **Migration:** Experienced in upgrading Odoo projects (e.g., **V16 to V19**)[cite: 101].
-- 🚀 **Focus:** Automating business processes and creating seamless integrations between ERP modules[cite: 88, 97].
+- 🎓 **Education:** Bachelor’s degree in **Management Information Systems (MIS)**.
+- 💻 **Expertise:** Specialized in **Odoo Development** with a deep understanding of business workflows.
+- 🛠 **Hands-on Experience:** Practical knowledge in **Sales, Purchase, CRM, HR, Inventory, and Maintenance** modules.
+- 🔄 **Migration:** Experienced in upgrading Odoo projects (e.g., **V16 to V19**).
+- 🚀 **Focus:** Automating business processes and creating seamless integrations between ERP modules.
 
 ---
 
@@ -39,36 +39,36 @@
 ## 🏗 Featured Odoo Projects
 
 ### 🔄 Business Workflow Automation
-- Developed **Custom Server Actions** in CRM to automate salesperson reassignment and email notifications[cite: 88].
-- Implemented **Logic Constraints** (Max 5 Sales Orders) to enforce business rules[cite: 89].
-- Created specialized **Wizards** for date-based sales reporting[cite: 90].
+- Developed **Custom Server Actions** in CRM to automate salesperson reassignment and email notifications.
+- Implemented **Logic Constraints** (Max 5 Sales Orders) to enforce business rules.
+- Created specialized **Wizards** for date-based sales reporting.
 
 ### 🛠 Preventive Maintenance System
-- Designed a **Spare Parts Management** system fully integrated with the **Inventory** module[cite: 92].
-- Built an automated **Maintenance Plan** using **Scheduled Jobs (Cron)** to trigger requests based on equipment usage limits[cite: 93].
+- Designed a **Spare Parts Management** system fully integrated with the **Inventory** module.
+- Built an automated **Maintenance Plan** using **Scheduled Jobs (Cron)** to trigger requests based on equipment usage limits.
 
 ### 🎓 Student Registration & Accounting
-- Built a comprehensive registration model **integrated with Account Moves**[cite: 97].
-- Leveraged **Smart Buttons** to provide a 360-degree view of student financial status[cite: 97].
+- Built a comprehensive registration model **integrated with Account Moves**.
+- Leveraged **Smart Buttons** to provide a 360-degree view of student financial status.
 
 ### 📊 Purchase & Reporting Tools
-- Developed cross-functional **Purchase Order Summaries** with multi-format exports (**Excel & Word**)[cite: 95].
+- Developed cross-functional **Purchase Order Summaries** with multi-format exports (**Excel & Word**).
 - Experienced in building reporting engines using **Transient Models** and **Pivot views**.
 
 ---
 
 ## 📜 Certificates
 
-- 🏆 **Odoo 19 Implementation** - Kamah Tech (2025) [cite: 104]
-- 🏆 **Odoo Development** - ATEC CENTER (2023) [cite: 105]
-- 🏆 **Python Programming** - ATEC CENTER (2022) [cite: 106]
+- 🏆 **Odoo 19 Implementation** - Kamah Tech (2025).
+- 🏆 **Odoo Development** - ATEC CENTER (2023).
+- 🏆 **Python Programming** - ATEC CENTER (2022).
 
 ---
 
 ## 🌍 Languages
 
-- 🇪🇬 **Arabic:** Native
-- 🇬🇧 **English:** Professional Working Proficiency [cite: 113]
+- 🇪🇬 **Arabic:** Native.
+- 🇬🇧 **English:** Professional Working Proficiency.
 
 ---
 ⭐ **Feel free to explore my repositories or reach out for collaborations in the Odoo ecosystem!**
